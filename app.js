@@ -59,7 +59,7 @@ app.listen(3000, function(){
 
 
 
-// ***** Notes ******
+// ***** Notes for self ******
 
 // npm init 
 // npm i express
